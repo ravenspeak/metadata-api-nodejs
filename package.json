@@ -2,9 +2,9 @@
   "name": "metadata-api-nodejs",
   "version": "1.0.0",
   "description": "Sample metadata API for crypto collectibles",
-  "main": "index.js",
+  "main": "api/index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node api/index.js",
     "test": "node test.js"
   },
   "author": "Alex Atallah <alex.atallah@opensea.io>",

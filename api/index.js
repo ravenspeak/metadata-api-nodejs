@@ -53,5 +53,3 @@ function monthName(month) {
   ]
   return monthNames[month - 1]
 }
-
-module.exports = app;
