@@ -4,7 +4,7 @@
         {
             "src": "./api/index.js",
             "use": "@vercel/node"
-        }
+        },
         {
             "src": "static/images/**/*",
             "use": "@vercel/static"
